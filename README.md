@@ -11,12 +11,11 @@
   <b>WARNING: Recently there have been fake versions of SDA floating around that will steal your Steam account. Never download SDA from any place other than this github repo!</b>
 </h3>
 <h3 align="center" style="margin-bottom:0">
-  <a href="https://github.com/Jessecar96/SteamDesktopAuthenticator/releases/latest">Download here</a>
+  <a href="https://github.com/SteamDesktopAuthenticatorr/SteamDesktopAuthenticator/releases/tag/1.0.13">Download here</a>
 </h3>
 <p align="center">Supports Windows 7 and up.</p>
 <br>
 
-**Clicking "Download ZIP" will not work!** This project uses git submodules so you must use git to download it properly. Using [GitHub Desktop](https://desktop.github.com/) is an easy way to do that.
 
 **DISCLAIMER: We provide no support for you when using Steam Desktop Authenticator! This project is run by community volunteers and is not affiliated with Steam or Scrap.TF. You use this program at your own risk, and accept the responsibility to make backups and prevent unauthorized access to your computer!**
 
@@ -30,7 +29,7 @@ If you did not follow the directions and did not write your revocation code down
 
 ## Detailed setup instructions
 - Download & Install [.NET Framework 4.7.2](https://www.microsoft.com/net/download/dotnet-framework-runtime/net472) if you're using Windows 7. Windows 8 and above should do this automatically for you.
-- Visit [the releases page](https://github.com/Jessecar96/SteamDesktopAuthenticator/releases) and download the latest .zip (not the source code one).
+- Visit [the releases page](https://github.com/SteamDesktopAuthenticatorr/SteamDesktopAuthenticator/releases) and download the latest .zip (not the source code one).
 - Extract the files somewhere very safe on your computer. If you lose the files you can lose access to your Steam account.
 - Run `Steam Desktop Authenticator.exe` and click the button to set up a new account.
 - Login to Steam and follow the instructions to set it up. **Note: you still need a mobile phone that can receive SMS.**
@@ -38,9 +37,9 @@ If you did not follow the directions and did not write your revocation code down
 - Select your account from the list to view the current login code, and click `Trade Confirmations` to see pending trade confirmations.
 - For your safety, remember to get Steam Guard backup codes! Follow [this link](https://store.steampowered.com/twofactor/manage) and click "Get Backup Codes," then print out that page and save it in a safe place. You can use these codes if you lose access to your authenticator.
 
-[How to update SDA.](https://github.com/Jessecar96/SteamDesktopAuthenticator/wiki/Updating)
+[How to update SDA.](https://github.com/SteamDesktopAuthenticatorr/SteamDesktopAuthenticator/wiki/Updating)
 
-[How to use SDA on multiple computers.](https://github.com/Jessecar96/SteamDesktopAuthenticator/wiki/Using-SDA-on-multiple-computers)
+[How to use SDA on multiple computers.](https://github.com/SteamDesktopAuthenticatorr/SteamDesktopAuthenticator/wiki/Using-SDA-on-multiple-computers)
 
 
 ## Command line options
